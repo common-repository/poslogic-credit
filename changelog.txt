@@ -1,0 +1,18 @@
+=== Poslogic Credit Gateway ===
+
+= 1.0.5 =
+* Minor bug fixed
+
+= 1.0.4 =
+* Added compatibility with WooCommerce version >= 2.5
+
+= 1.0.3 =
+* Added compatibility with PHP version under 5.4
+
+= 1.0.1 =
+* Plugin renamed
+* Code refactoring as prepare to WP marketplace
+
+= 1.0.0 =
+* First stable version
+

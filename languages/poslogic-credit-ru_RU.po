@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: poslogic-credit\n"
+"POT-Creation-Date: 2020-08-31 15:42+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Finservice <it@finservice.pro>\n"
+"Language-Team: My Super Team\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: poslogic-credit-gateway.php:19 poslogic-credit-gateway.php:23
+msgid "Poslogic Credit"
+msgstr "Poslogic Credit"
+
+#: poslogic-credit-gateway.php:21
+msgid "Poslogic Credit Gateway Plug-in for WooCommerce"
+msgstr "Плагин Poslogic Credit для WooCommerce"
+
+#: poslogic-credit-gateway.php:90
+msgid "Enable / Disable"
+msgstr "Включить / Выключить"
+
+#: poslogic-credit-gateway.php:91
+msgid "Make Poslogic Credit available for payment"
+msgstr "Сделать Poslogic Credit доступным для оплаты"
+
+#: poslogic-credit-gateway.php:96
+msgid "Title"
+msgstr "Заголовок"
+
+#: poslogic-credit-gateway.php:98
+msgid "Text on the Buy Button"
+msgstr "Текст на кнопке \"Купить\""
+
+#: poslogic-credit-gateway.php:99
+msgid "Online Credit"
+msgstr "Кредит онлайн"
+
+#: poslogic-credit-gateway.php:102
+msgid "Description"
+msgstr "Описание"
+
+#: poslogic-credit-gateway.php:104
+msgid "Description about Buy Button (if available)"
+msgstr "Текст рядом с кнопкой купить (если доступен)"
+
+#: poslogic-credit-gateway.php:105
+msgid "Buy goods on loan"
+msgstr "Купить товар в кредит"
+
+#: poslogic-credit-gateway.php:109
+msgid "Poslogic Client ID"
+msgstr "Poslogic Client ID"
+
+#: poslogic-credit-gateway.php:111
+msgid "Your Client ID setting"
+msgstr "Ваш Client ID"
+
+#: poslogic-credit-gateway.php:114
+msgid "Poslogic Client Secret Key"
+msgstr "Poslogic Client Secret Key"
+
+#: poslogic-credit-gateway.php:116
+msgid "Your Client Secret setting"
+msgstr "Ваш Client Secret"
+
+#: poslogic-credit-gateway.php:119
+msgid "Installment"
+msgstr "Рассрочка"
+
+#: poslogic-credit-gateway.php:122
+msgid "No"
+msgstr "Нет"
+
+#: poslogic-credit-gateway.php:123
+msgid "Yes"
+msgstr "Да"
+
+#: poslogic-credit-gateway.php:127
+msgid "Name of Manufacturer field"
+msgstr "Название поля с производителем"
+
+#: poslogic-credit-gateway.php:129
+msgid ""
+"Set the name of the product attribute in which you indicate the "
+"manufacturer. You can specify here the name of your site, but it may affect "
+"the approval rating of banks."
+msgstr ""
+"Укажите как называется аттрибут товара, в котором Вы указываете "
+"производителя. Вы можете указать здесь имя вашего сайта, но это может "
+"повлиять на рейтинг одобрения банков."
+
+#: poslogic-credit-gateway.php:133 poslogic-credit-gateway.php:134
+msgid "Goods Category Setup"
+msgstr "Настройка категорий товаров"
+
+#: poslogic-credit-gateway.php:140
+msgid "Poslogic Test Mode"
+msgstr "Тестовый режим Poslogic"
+
+#: poslogic-credit-gateway.php:141
+msgid "Enable Test Mode"
+msgstr "Включить тестовый режим"
+
+#: poslogic-credit-gateway.php:143
+msgid ""
+"In this mode, requests for creating a loan application will go to the test "
+"environment."
+msgstr ""
+"В данном режиме запросы на создание заявки на кредит будут уходить на "
+"тестовую среду."
+
+#: poslogic-credit-gateway.php:232
+msgid "Client started to filling a loan application"
+msgstr "Клиент начал заполнять анкету Posline"
+
+#: poslogic-credit-gateway.php:254
+#, php-format
+msgid ""
+"<strong>%s</strong> is enabled and WooCommerce is not forcing the SSL "
+"certificate on your checkout page. Please ensure that you have a valid SSL "
+"certificate and that you are <a href=\"%s\">forcing the checkout pages to be "
+"secured.</a>"
+msgstr ""
+"<strong>%s</strong> is enabled and WooCommerce is not forcing the SSL "
+"certificate on your checkout page. Please ensure that you have a valid SSL "
+"certificate and that you are <a href=\"%s\">forcing the checkout pages to be "
+"secured.</a>"
+
+#: poslogic-credit-gateway.php:274 poslogic-credit-gateway.php:340
+#: poslogic-credit-gateway.php:367
+msgid ""
+"We are currently experiencing problems trying to connect to this payment "
+"gateway. Sorry for the inconvenience."
+msgstr ""
+"We are currently experiencing problems trying to connect to this payment "
+"gateway. Sorry for the inconvenience."
+
+#: poslogic-credit-gateway.php:277 poslogic-credit-gateway.php:343
+#: poslogic-credit-gateway.php:370
+msgid "Poslogic Credits's Response was empty."
+msgstr "Poslogic Credits's Response was empty."
+
+#: poslogic-credit-gateway.php:284 poslogic-credit-gateway.php:377
+msgid "Incorrect authorization data"
+msgstr "Неверные авторизационные данные"
+
+#: poslogic-credit.php:49
+msgid "Settings"
+msgstr "Настройки"
+
+#: templates/category_setup.php:30
+msgid "Rerurn back"
+msgstr "Вернуться назад"
+
+#~ msgid "Setup"
+#~ msgstr "Настройка"
